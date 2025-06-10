@@ -24,5 +24,5 @@ Email: 1thenameisshivam@gmail.com
 LinkedIn: https://linkedin.com/in/shivamkumar8987
 Projects: https://github.com/1thenameisshivam?tab=repositories
 
-<h3>🛠️ Tech Stack</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,redis,html,css,tailwind,redux,docker,nginx,git,vercel,postman,was,github,inngest,cloudflare,jest" /> </p>
+<h3>🛠️ Tech Stack</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,redis,html,css,tailwind,redux,docker,nginx,git,vercel,postman,was,azure,github,cloudflare,jest" /> </p>
 <h3>📊 GitHub Stats</h3> <p align="left"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=1thenameisshivam&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=1thenameisshivam&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1thenameisshivam&layout=compact&theme=tokyonight" /> </p>
