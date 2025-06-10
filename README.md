@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm SHIVAM KUMAR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Welcome to My GitHub</h1> <h3 align="center">Full-Stack Developer | AI Integrator | Systems Architect</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=1thenameisshivam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=1thenameisshivam&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophy" /> </p>
+🛡️ <strong>About Me — Inspired by the Scout Regiment</strong> 🛡️
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1thenameisshivam&label=Profile%20views&color=0e75b6&style=flat" alt="1thenameisshivam" /> </p>
+Driven by ambition and forged through relentless pursuit of excellence, I’m a full-stack developer who thrives in high-stakes environments — where performance, adaptability, and clarity matter most.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1thenameisshivam" alt="1thenameisshivam" /></a> </p>
+I specialize in modern technologies like React, Next.js, Tailwind CSS, Node.js, and MongoDB. My recent work includes building AI-integrated platforms, event-driven backends using Inngest, secure user flows powered by Arcjet, and scalable deployments with AWS EC2, Nginx, and PM2.
 
-- 👨‍💻 All of my projects are available at [https://github.com/1thenameisshivam?tab=repositories](https://github.com/1thenameisshivam?tab=repositories)
+Much like the elite forces that move swiftly beyond the walls, I approach challenges with precision, agility, and strategy. I believe technology should not just work — it should inspire, simplify, and empower.
 
-- 📫 How to reach me **1thenameisshivam@gmail.com**
+I’m always exploring the next frontier of software — crafting clean, intelligent, and purposeful systems ready to stand the test of scale.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivamkumar8987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamkumar8987" height="30" width="40" /></a>
-</p>
+🗡️ <strong>Skills at a Glance</strong>:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+Languages & Tools: JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, MySQL, Tailwind CSS, Redux, JWT, Firebase, Framer Motion, Arcjet, Inngest, Postman, Git.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1thenameisshivam&show_icons=true&locale=en&layout=compact" alt="1thenameisshivam" /></p>
+DevOps & Infra: PM2, Nginx, AWS EC2, Vercel, GitHub Actions.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1thenameisshivam&show_icons=true&locale=en" alt="1thenameisshivam" /></p>
+Areas of Focus: Full-stack architecture, AI automation, event-driven systems, scalable backend design, intelligent user experience.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1thenameisshivam&" alt="1thenameisshivam" /></p>
+📫 <strong>Reach Me:</strong>
+Email: 1thenameisshivam@gmail.com
+LinkedIn: https://linkedin.com/in/shivamkumar8987
+Projects: https://github.com/1thenameisshivam?tab=repositories
 
-Support 🙏
+<h3>🛠️ Tech Stack</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,redux,git,vercel,postman" /> </p>
+<h3>📊 GitHub Stats</h3> <p align="left"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=1thenameisshivam&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=1thenameisshivam&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1thenameisshivam&layout=compact&theme=tokyonight" /> </p>
